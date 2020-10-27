@@ -1,0 +1,22 @@
+{
+  "name": "node-lab",
+  "version": "1.0.0",
+  "description": "Having some fun with Node!",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antsuarez3/Node-Lab.git"
+  },
+  "author": "Anthony Suarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antsuarez3/Node-Lab/issues"
+  },
+  "homepage": "https://github.com/antsuarez3/Node-Lab#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
